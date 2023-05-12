@@ -1,1 +1,3 @@
-# git-lab-02
+# Repo del Lab 02
+
+Este es un cambio desde máquina local
